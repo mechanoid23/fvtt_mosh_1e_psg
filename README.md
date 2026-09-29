@@ -1,4 +1,7 @@
 ## Mothership PSG Compendium | 1e | FoundryVTT
+
+**Install in Foundry VTT:** `https://raw.githubusercontent.com/mechanoid23/fvtt_mosh_1e_psg/main/module.json`
+
 ![image](https://github.com/hollowphoton/fvtt_mosh_1e_psg/assets/17795348/a785e4c4-acf5-4fba-bb9b-96dd3a0c0876)
 
 This is a module I've created for use in my own personal Mothership game. It contains everything I found relevant in the 1e Player's Survival Guide.
