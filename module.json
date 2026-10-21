@@ -2,15 +2,15 @@
     "id": "fvtt_mosh_1e_psg",
     "title": "Mothership 1e Compendium - PSG",
     "description": "A compendium covering everything in the Player's Survival Guide",
-    "version": "0.3.19",
+    "version": "0.4.3",
     "compatibility": {
       "minimum": "11",
       "verified": "14"
     },
     "authors": [
       {
-        "name": "hollowphoton",
-        "url": "https://github.com/hollowphoton"
+        "name": "mechanoid23",
+        "url": "https://github.com/mechanoid23"
       }
     ],
     "packs": [
@@ -84,5 +84,5 @@
     },
     "url": "https://github.com/mechanoid23/fvtt_mosh_1e_psg",
     "manifest": "https://raw.githubusercontent.com/mechanoid23/fvtt_mosh_1e_psg/main/module.json",
-    "download": "https://github.com/mechanoid23/fvtt_mosh_1e_psg/releases/download/v0.3.19/fvtt_mosh_1e_psg.zip"
+    "download": "https://github.com/mechanoid23/fvtt_mosh_1e_psg/releases/download/v0.4.3/fvtt_mosh_1e_psg.zip"
   }
